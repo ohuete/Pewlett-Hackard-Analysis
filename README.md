@@ -11,7 +11,7 @@ The purpose of this project is to create Entity Relationship Deiagrams (ERD's) a
 
 <img width="674" alt="Screen Shot 2022-08-05 at 1 52 13 PM" src="https://user-images.githubusercontent.com/107595127/183160828-84e9fe61-1dfa-41e0-b66f-1fb3be6d0307.png">
 
-- As you can see, some employees appear more than once with different job titles. This is not quite what we want. I narrowed the results to create a table wit only the most recent title for each employee. Below is an image showing only the first ten results of the new table called "unique_titles".
+- As you can see, some employees appear more than once with different job titles. This is not quite what we want. I narrowed the results to create a table with only the most recent title for each employee. Below is an image showing only the first ten results of the new table called "unique_titles".
 
 <img width="523" alt="Screen Shot 2022-08-05 at 1 53 30 PM" src="https://user-images.githubusercontent.com/107595127/183160967-1af8da5e-be82-4408-90de-8b74f9377aeb.png">
 
