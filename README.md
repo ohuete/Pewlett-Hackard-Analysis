@@ -18,3 +18,10 @@ The purpose of this project is to create Entity Relationship Deiagrams (ERD's) a
 - Still, the table is too large. It countains an exhaustive list of each employee that is retiring. To make it easier to read, I added a new table that only shows the number of employees retiring from each job title. Below is an image of the new consise "retiring_titles" table. 
 
 <img width="214" alt="Screen Shot 2022-08-05 at 1 55 28 PM" src="https://user-images.githubusercontent.com/107595127/183161785-031e2144-9bfb-4a6d-b8ee-09729f2c8237.png">
+
+- Now that we know who is retiring, the number of employees and their job titles, we can determine who is eligible for the mentorship program based on birth date. The new table contains employee number, first and last name, birth date, from and to date, and job title. Take a look at what the new "mentorship_eligibilty" table below. 
+
+<img width="724" alt="Screen Shot 2022-08-05 at 2 57 43 PM" src="https://user-images.githubusercontent.com/107595127/183216743-6215c059-e51c-44e1-bcbb-55bcc974c870.png">
+
+## Summary
+Pewlett Hackard is looking at over 74,000 employees eligible for retirement. Based on the tables provided, there are more than enough current employees available for the mentorship program. The managers job title only has two retiring so they are either fine in that department or must keep them as mentors. Since every other department has at least 1,000 employees retiring, Pewlett Hackard probably cannot keep everyone as a mentor. A table to determine who exactly Pewlett Hackard would like to initiate into their mentorship program and who receives the reitrement package. 
